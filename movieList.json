@@ -764,6 +764,14 @@
       "director": "클린트 이스트우드",
       "cast": ["클린트 이스트우드", "힐러리 스웽크"],
       "img": "https://movie-phinf.pstatic.net/20170206_131/14863566539157duVI_JPEG/movie_image.jpg?type=m665_443_2"
+    },
+    {
+      "id": 79762,
+      "title": "세상에서 가장 아름다운 이별",
+      "genre": ["드라마"],
+      "director": "민규동",
+      "cast": ["배종옥", "김갑수", "김지영", "유준상"],
+      "img": "https://movie-phinf.pstatic.net/20111223_264/1324635234278qEcR6_JPEG/movie_image.jpg?type=m665_443_2"
     }
   ]
 }
