@@ -538,7 +538,7 @@
     {
       "id": 76460,
       "title": "리얼 스틸",
-      "genre": ["액션", "드라마", "SF"],
+      "genre": ["액션", "드라마", "SF", "스포츠"],
       "director": "숀 레비",
       "cast": ["휴 잭맨", "에반젤린 릴리"],
       "img": "https://movie-phinf.pstatic.net/20111223_15/1324646896363bGHgr_JPEG/movie_image.jpg?type=m665_443_2"
@@ -578,7 +578,7 @@
     {
       "id": 45253,
       "title": "스텝업2 - 더 스트리트",
-      "genre": ["드라마", "로맨스"],
+      "genre": ["드라마", "로맨스", "스포츠"],
       "director": "존 추",
       "cast": ["브리아나 에비건", "로버트 호프먼"],
       "img": "https://movie-phinf.pstatic.net/20111222_87/13245253870899oIIe_JPEG/movie_image.jpg?type=m665_443_2"
@@ -752,7 +752,7 @@
     {
       "id": 164115,
       "title": "맘마미아2",
-      "genre": ["뮤지컬"],
+      "genre": ["음악"],
       "director": "올 파커",
       "cast": ["아만다 사이프리드", "릴리 제임스"],
       "img": "https://movie-phinf.pstatic.net/20180808_39/1533692610471D6ej4_JPEG/movie_image.jpg?type=m665_443_2"
@@ -760,7 +760,7 @@
     {
       "id": 39809,
       "title": "밀리언 달러 베이비",
-      "genre": ["드라마"],
+      "genre": ["드라마", "스포츠"],
       "director": "클린트 이스트우드",
       "cast": ["클린트 이스트우드", "힐러리 스웽크"],
       "img": "https://movie-phinf.pstatic.net/20170206_131/14863566539157duVI_JPEG/movie_image.jpg?type=m665_443_2"
